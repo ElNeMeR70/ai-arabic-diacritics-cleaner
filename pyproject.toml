@@ -1,0 +1,4 @@
+[project]
+name = "ai-arabic-diacritics-cleaner"
+version = "0.1.0"
+description = "Normalizes Arabic Unicode forms (hamzas, taa marbuta, alef maksura) and strips diacritics (tashkeel & tatweel)."
